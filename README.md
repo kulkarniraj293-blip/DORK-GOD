@@ -15,12 +15,17 @@
 
 This repository contains dorks for:
 
-- Google
-- GitHub
-- Shodan
+- Google  
+- GitHub  
+- Shodan  
 
-More coming soon.
+More platforms coming soon.
 
 ---
 
 ⚠ For educational and authorized testing purposes only.
+
+Built for real hunters.  
+Use responsibly.  
+
+With great power comes great responsibility.
