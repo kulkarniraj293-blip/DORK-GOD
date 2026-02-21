@@ -1,6 +1,26 @@
-# DORK-GOD -by raj kulkarni
-### Dorks for Bug Bounty Hunting
+# DORK GOD
 
-![bbdorks](https://user-images.githubusercontent.com/75373225/148363168-98ca3d3f-dfd0-4c18-9feb-095fac3fac74.png)
+## Dorks for Bug Bounty Hunting
 
-This repo is piece of shit💩 created by me
+```
+██████╗  ██████╗ ██████╗ ██╗  ██╗      ██████╗  ██████╗ ██████╗ 
+██╔══██╗██╔═══██╗██╔══██╗██║ ██╔╝     ██╔════╝ ██╔═══██╗██╔══██╗
+██║  ██║██║   ██║██████╔╝█████╔╝      ██║  ███╗██║   ██║██║  ██║
+██║  ██║██║   ██║██╔══██╗██╔═██╗      ██║   ██║██║   ██║██║  ██║
+██████╔╝╚██████╔╝██║  ██║██║  ██╗     ╚██████╔╝╚██████╔╝██████╔╝
+╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝      ╚═════╝  ╚═════╝ ╚═════╝
+```
+
+---
+
+This repository contains dorks for:
+
+- Google
+- GitHub
+- Shodan
+
+More coming soon.
+
+---
+
+⚠ For educational and authorized testing purposes only.
